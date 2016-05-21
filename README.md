@@ -1,4 +1,4 @@
-# nationale-ombudsman
+# Digitaal jaarverslag Nationale Ombudsman
 Interactieve tijdlijn voor de Nationale Ombudsman
 
 Fabrique maakte een ontwerp voor het online jaarverslag van de Nationale Ombudsman, dat ik codeerde met alleen JavaScript, HTML5 en CSS en zonder backend-logica. Hierdoor is de tijdlijn door De Nationale Ombudsman gemakkelijk te embedden op verschillende subsites.
