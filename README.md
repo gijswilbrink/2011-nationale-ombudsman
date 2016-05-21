@@ -4,6 +4,8 @@ Fabrique maakte een ontwerp voor het online jaarverslag van de Nationale Ombudsm
 
 Alle data wordt met JSON aangeleverd door het Drupal cms van de ombudsman. Die gegevens worden vervolgens getoond in een interactieve tijdlijn, waarin op maandniveau is in te zoomen en op categorieën is te filteren.
 
+Bekijk een werkende versie op http://www.occhio.nl/jaarverslag/
+
 * **tijdlijn.js** de hoofdclass van de tijdlijn
 * **grid.js** het plaatsen van elementen in het grid van de tijdlijn, waarbij de verticale positie niet mag overlappen en redelijk random moet lijken
 * **data.js** regelt de inkomende json data
